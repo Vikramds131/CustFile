@@ -1,0 +1,2 @@
+CustId		CustName	CustAdd
+123		Vik		Brighton
